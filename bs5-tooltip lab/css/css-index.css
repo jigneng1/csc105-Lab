@@ -28,3 +28,12 @@ address {
     margin: 0px;
     color: #0f0f0f;
 }
+
+nav{
+    color: white;
+    background-color:blueviolet;
+}
+
+#login{
+    color: white;
+}
